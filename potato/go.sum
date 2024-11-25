@@ -4,6 +4,8 @@ github.com/99designs/gqlgen v0.17.55 h1:3vzrNWYyzSZjGDFo68e5j9sSauLxfKvLp+6ioRok
 github.com/99designs/gqlgen v0.17.55/go.mod h1:3Bq768f8hgVPGZxL8aY9MaYmbxa6llPM/qu1IGH1EJo=
 github.com/99designs/gqlgen v0.17.56 h1:+J42ARAHvnysH6klO9Wq+tCsGF32cpAgU3SyF0VRJtI=
 github.com/99designs/gqlgen v0.17.56/go.mod h1:rmB6vLvtL8uf9F9w0/irJ5alBkD8DJvj35ET31BKbtY=
+github.com/99designs/gqlgen v0.17.57 h1:Ak4p60BRq6QibxY0lEc0JnQhDurfhxA67sp02lMjmPc=
+github.com/99designs/gqlgen v0.17.57/go.mod h1:Jx61hzOSTcR4VJy/HFIgXiQ5rJ0Ypw8DxWLjbYDAUw0=
 github.com/Khan/genqlient v0.6.0 h1:Bwb1170ekuNIVIwTJEqvO8y7RxBxXu639VJOkKSrwAk=
 github.com/Khan/genqlient v0.6.0/go.mod h1:rvChwWVTqXhiapdhLDV4bp9tz/Xvtewwkon4DpWWCRM=
 github.com/Khan/genqlient v0.7.0 h1:GZ1meyRnzcDTK48EjqB8t3bcfYvHArCUUvgOwpz1D4w=
